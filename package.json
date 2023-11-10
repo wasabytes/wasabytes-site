@@ -33,7 +33,7 @@
     "hexo-theme-landscape": "^1.0.0",
     "hexo-theme-shokax": "^0.3.6",
     "lozad": "^1.16.0",
-    "puppeteer": "^21.0.2",
+    "puppeteer": "^21.5.1",
     "theme-shokax-anime": "^0.0.4",
     "theme-shokax-pjax": "^0.0.2"
   }
