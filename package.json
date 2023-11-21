@@ -14,7 +14,7 @@
   "dependencies": {
     "acron": "^1.0.5",
     "deasync": "^0.1.28",
-    "esbuild": "^0.19.4",
+    "esbuild": "^0.19.7",
     "hexo": "^6.3.0",
     "hexo-algoliasearch": "^1.0.0",
     "hexo-autoprefixer": "^2.0.0",
