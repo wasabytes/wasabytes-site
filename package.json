@@ -31,7 +31,7 @@
     "hexo-renderer-stylus": "^3.0.0",
     "hexo-server": "^3.0.0",
     "hexo-theme-landscape": "^1.0.0",
-    "hexo-theme-shokax": "^0.3.6",
+    "hexo-theme-shokax": "^0.3.9",
     "lozad": "^1.16.0",
     "puppeteer": "^21.0.2",
     "theme-shokax-anime": "^0.0.4",
